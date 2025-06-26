@@ -1,1 +1,1 @@
-# EDA Eploratory Data Analysis on Iris Dataset
+# EDA(Eploratory Data Analysis) on Iris Dataset
